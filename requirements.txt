@@ -1,5 +1,1 @@
 
-streamlit==1.12.2
-
-yahooquery==2.2.15
-yfinance==0.1.70
