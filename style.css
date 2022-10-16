@@ -1,0 +1,117 @@
+/* body{
+ background-image: url(aave.png);
+} */
+.btn2 {
+    background-color: #6f19fa;
+    border-radius: 80px 0px 80px 0px;
+    padding:10px 20px 10px;
+    color: white;
+    text-decoration:none;
+  
+  }
+  .btn2:hover {
+    background-color: transparent;
+    border:2px solid #6f19fa;
+    border-radius: 80px 0px 80px 0px;
+    padding:10px 20px 10px;
+    color: #6f19fa;
+    text-decoration:none;
+  }
+  .space{
+    margin-top:120px;
+  }
+  .space2{
+    margin-top:50px;
+  }
+
+
+  .btn3 {
+    background-color: transparent;
+    border:2px solid #6f19fa;
+    border-radius: 80px 0px 80px 0px;
+    padding:10px 20px 10px;
+    color: #6f19fa;
+    text-decoration:none;
+  }
+  .btn3:hover {
+    background-color: #6f19fa;
+    border-radius: 80px 0px 80px 0px;
+    padding:10px 20px 10px;
+    color: white;
+    text-decoration:none;
+  
+  }
+
+  .card{
+      border:0px;
+      background: transparent;
+  }
+  .navbar-toggler-icon{
+    color:#6f19fa;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: #6f19fa;
+    font-weight: 500;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #6f19fa;
+  text-decoration: underline;
+  text-decoration: underline  2px #6f19fa;
+  margin-bottom: 5px;
+  text-underline-position: under;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+  color: #6f19fa;
+  text-decoration: underline;
+  background-color: #6f19fa;
+  border-radius: 0px 80px 0px 80px;
+  padding:10px 30px 10px;
+  color: white;
+  text-decoration:none;
+}
+.navbar-light .navbar-nav .nav-link .active {
+  color: #6f19fa;
+  text-decoration: underline  2px #6f19fa;
+  margin-bottom: 5px;
+  text-underline-position: under;
+}
+.bitcoin{
+  background-image: url(aave.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  opacity: 70%;
+}
+.purple{
+  background-color: #6f19fa;
+}
+.btn4 {
+  background-color: transparent;
+  border:2px solid #ffffff;
+  border-radius: 100px;
+  padding:10px 20px 10px;
+  color: #ffffff;
+  text-decoration:none;
+  font-weight: 700;
+}
+.btn4:hover {
+  background-color: white;
+  border:2px solid transparent;
+  border-radius: 100px;
+  padding:10px 20px 10px;
+  color: #6f19fa;
+  text-decoration:none;
+
+}
+
+.nav-link {
+  color: white;
+  font-weight: 500;
+}
+ .nav-link:hover {
+color: white;
+text-decoration: underline;
+text-decoration: underline  2px white;
+margin-bottom: 5px;
+text-underline-position: under;
+}
